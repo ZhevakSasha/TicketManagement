@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TicketManagement.DataBase", "TicketManagement.db\TicketManagement.DataBase.sqlproj", "{04CB4114-0578-4B4E-81AE-F110EB5C6381}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD21A0D5-8CDC-42C3-B6CE-EDA27908D59B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D9AA270B-D313-4E48-AF68-8E2FE22805FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04CB4114-0578-4B4E-81AE-F110EB5C6381} = {DD21A0D5-8CDC-42C3-B6CE-EDA27908D59B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F21B40-58A6-4247-B765-A413A374C8A6}
+	EndGlobalSection
+EndGlobal
